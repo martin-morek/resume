@@ -1,6 +1,6 @@
 # Experience template
 - company: Firstbird
-  link: https://www.firstbird.com/
+  link: www.firstbird.com
   job_title: Backend Developer
   dates: October 2017 - October 2018
   description: | # this will include new lines to allow paragraphs
@@ -9,7 +9,7 @@
   tags: <mark>Scala</mark> <mark>Play Framework</mark> <mark>Java</mark> <mark>Docker</mark> <mark>AWS</mark> <mark>Event Sourcing</mark> <mark>Microservices</mark>
 
 - company: Wirecard AG
-  link: https://www.wirecard.com/
+  link: www.wirecard.com
   job_title: Software Engineer
   dates: February 2016 - August 2017
   description: | # this will include new lines to allow paragraphs
@@ -18,7 +18,7 @@
   tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>Ruby on Rails</mark> <mark>REST</mark> <mark>Scala</mark>
 
 - company: Localhost s.r.o
-  link: https://localhost.company/
+  link: localhost.company
   job_title: Web Developer
   dates: October 2014 - February 2016
   description: | # this will include new lines to allow paragraphs
