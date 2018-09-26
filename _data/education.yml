@@ -1,0 +1,15 @@
+# Education Template
+- name: Technical University of Košice
+  dates: 2015 - 2017
+  qualification: Master’s Degree - Information Technology
+  quote: >
+    Short institution or course description (optional)
+  thesis: Reactive streams on JVM
+
+# Education Template
+- name: Technical University of Košice
+  dates: 2012 - 2015
+  qualification: Bachelor’s Degree - Information Technology
+  quote: >
+    Short institution or course description (optional)
+  thesis: Web development with Ruby on Rails

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+
+      {%- include about.html -%}
+
+      {%- include timeline.html -%}
+
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%}
+
+      {%- include more.html -%}
+
+    </div>
+  </main>
+
+  {%- include footer.html -%}
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/scripts.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+# Experience template
+- company: Firstbird
+  link: https://www.firstbird.com/
+  job_title: Backend Developer
+  dates: October 2017 - October 2018
+  description: | # this will include new lines to allow paragraphs
+    I was part of a small, autonomous, agile team and was working closely with Frontend developers and product specialists. Except implementing new features, was also part of my job doing DevOps (deploying new version, configuring environments). Application's backend was composed of multiple microservices developed in Scala language (Play framework, Akka) or Java (Spring boot) running in Docker containers on AWS.
+
+  tags: <mark>Scala</mark> <mark>Play Framework</mark> <mark>Java</mark> <mark>Docker</mark> <mark>AWS</mark> <mark>Event Sourcing</mark> <mark>Microservices</mark>
+
+- company: Wirecard AG
+  link: https://www.wirecard.com/
+  job_title: Software Engineer
+  dates: February 2016 - August 2017
+  description: | # this will include new lines to allow paragraphs
+    Wirecard is a global digital payments company, providing payments processing and issuing services. I was a member of a team which was primarily working on Ruby on Rails projects. Our most important project was customer loyalty system. My position was a full stack developer and I was responsible for implementing new features based on customer requirements, creating unit tests for a new and an existing functionality and fixing bugs. Besides Ruby projects I also had the opportunity to work on a Java project. This project was built from scratch, designed by our team and based on Java framework Spring Boot. I was fully focused on backend development. During every project, we were applying agile development principles.
+
+  tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>Ruby on Rails</mark> <mark>REST</mark> <mark>Scala</mark>
+
+- company: Localhost s.r.o
+  link: https://localhost.company/
+  job_title: Web Developer
+  dates: October 2014 - February 2016
+  description: | # this will include new lines to allow paragraphs
+    I started as a junior developer collaborating on a custom customer relationship management system. The system backbone technologies were PHP and MySQL on the backend side, Javascript, HTML and CSS on frontend. Later, I worked as a Java developer on several other projects built on Spring Boot framework. My job was designing REST API for communication with front-end, implementing application backend core functionality and fixing bugs.
+
+  tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>SQL</mark> <mark>PHP</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
