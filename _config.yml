@@ -14,9 +14,9 @@ linkedin_username: martinmorek
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: img/picture.jpg
+about_profile_image: img/martin-morek.jpg
 about_content: |
-  I'm a programming geek with enthusiasm about everything related to technology, from IoT gadgets to software development. I love learning a new things and trying them in a practice.
+  Hi. I'm Martin, a software developer in love with travelling. I spent more than four years as a developer living classic office life and now I've become a freelancer. I'm passionate about building excellent software and learning new things. I specialize in backend development. During my prior career I worked with different technologies on various positions through several companies, which offered me opportunity to collect a lot of experience.
 
   <mark>Scala</mark> <mark>Java</mark> <mark>SQL</mark> <mark>Ruby</mark> <mark>JavaScript</mark> <mark>Play framework</mark> <mark>Spring boot</mark> <mark>Akka</mark> <mark>Event sourcing</mark>
 
