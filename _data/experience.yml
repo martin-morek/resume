@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     I was part of a small, autonomous, agile team and I was working closely with Frontend developers and product specialists. Except implementing new features, also part of my job was doing DevOps (deploying new version, configuring environments). Application’s backend was composed of multiple microservices developed in Scala language (Play framework, Akka) or Java (Spring boot), everything running in Docker containers on AWS.
 
-  tags: <mark>Scala</mark> <mark>Play Framework</mark> <mark>Java</mark> <mark>Docker</mark> <mark>AWS</mark> <mark>Event Sourcing</mark> <mark>Microservices</mark>
+  tags: <mark>Scala</mark> <mark>Play Framework</mark> <mark>Java</mark> <mark>Docker</mark> <mark>Akka</mark> <mark>AWS</mark> <mark>Microservices</mark> <mark>Event Sourcing</mark>
 
 - company: Wirecard AG
   link: www.wirecard.com
@@ -18,7 +18,7 @@
   tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>Ruby on Rails</mark> <mark>REST</mark> <mark>Scala</mark> <mark>Akka</mark>
 
 - company: Localhost s.r.o
-  link: localhost.company
+  link: www.localhost.company
   job_title: Web Developer
   dates: October 2014 - February 2016
   description: | # this will include new lines to allow paragraphs
