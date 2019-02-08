@@ -1,10 +1,21 @@
 # Experience template
+- company: Freelancer
+  link: www.martin-morek.me
+  job_title: Scala/Java freelance developer
+  dates: October 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    I've been a participant on multiple projects as a remote freelancer focused on backend development, besides that also developing my personal project built with Scala and PlayFramework.
+
+    Working as a remote freelancer gave me an opportunity to improve my soft skills, such as remote communication and cooperation with a client, responsibility for a deadline and time management. Moreover, it offered me the chance to learn new things and travel.
+
+  tags: <mark>Scala</mark> <mark>Java</mark> <mark>Play Framework</mark>  <mark>Docker</mark> <mark>Functional programming</mark> <mark>AWS</mark>
+
 - company: Firstbird
   link: www.firstbird.com
   job_title: Backend Developer
   dates: October 2017 - October 2018
   description: | # this will include new lines to allow paragraphs
-    I was part of a small, autonomous, agile team and I was working closely with Frontend developers and product specialists. Except implementing new features, also part of my job was doing DevOps (deploying new version, configuring environments). Application’s backend was composed of multiple microservices developed in Scala language (Play framework, Akka) or Java (Spring boot), everything running in Docker containers on AWS.
+    I was part of a small, autonomous, agile team and I was working closely with Frontend developers and product specialists. Except for implementing new features, also part of my job was doing DevOps (deploying a new version, configuring environments). Application’s backend was composed of multiple microservices developed in Scala language (Play framework, Akka) or Java (Spring boot), everything running in Docker containers on AWS.
 
   tags: <mark>Scala</mark> <mark>Play Framework</mark> <mark>Java</mark> <mark>Docker</mark> <mark>Akka</mark> <mark>AWS</mark> <mark>Microservices</mark> <mark>Event Sourcing</mark>
 
@@ -13,7 +24,7 @@
   job_title: Software Engineer
   dates: February 2016 - August 2017
   description: | # this will include new lines to allow paragraphs
-    I was a member of a team which was primarily focused on Ruby on Rails projects. Our most important project was customer loyalty system fully created in RoR. My position was a full stack developer and I was responsible for implementing new features based on customer requirements, creating unit tests and fixing bugs. Besides Ruby projects I also worked on one Java (Spring Boot) and one Scala (Akka) project. This projects were built from scratch, designed by our team.
+    I was a member of a team which was primarily focused on Ruby on Rails projects. Our most important project was a customer loyalty system fully created in RoR. My position was a full stack developer and I was responsible for implementing new features based on customer requirements, creating unit tests and fixing bugs. Besides Ruby projects, I also worked on one Java (Spring Boot) and one Scala (Akka) project. These projects were built from scratch, designed by our team.
 
   tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>Ruby on Rails</mark> <mark>REST</mark> <mark>Scala</mark> <mark>Akka</mark>
 
@@ -22,6 +33,6 @@
   job_title: Web Developer
   dates: October 2014 - February 2016
   description: | # this will include new lines to allow paragraphs
-    I started as a junior developer collaborating on a custom customer relationship management system. The system backbone technologies were PHP and MySQL on the backend side, Javascript, HTML and CSS on frontend. Later, I worked as a Java developer on several other projects built with Spring Boot framework. My responsibility was designing REST API for communication with front-end, implementing application backend core functionality and fixing bugs.
+    I started as a junior developer collaborating on a custom customer relationship management system. The system backbone technologies were PHP and MySQL on the backend side, Javascript, HTML and CSS on the frontend. Later, I worked as a Java developer on several other projects built with Spring Boot framework. My responsibility was designing REST API for communication with front-end, implementing application backend core functionality and fixing bugs.
 
   tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>SQL</mark> <mark>PHP</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
