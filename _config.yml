@@ -16,9 +16,15 @@ linkedin_username: martinmorek
 # about_title: About Me (Use this to override about section title)
 about_profile_image: img/martin-morek.jpg
 about_content: |
-  Hi. I'm Martin, a software developer in love with travelling. I spent more than four years as a developer living classic office life and now I've become a freelancer. I'm passionate about building excellent software and learning new things. I specialize in backend development. During my prior career I worked with different technologies on various positions through several companies, which offered me opportunity to collect a lot of experience.
+  I am a reliable and skilled software developer with more than five years of professional programming experience,
+  last three years primarily focusing on Scala language. I love functional programming and I’m always eager to learn new skills.
+  I have worked in different companies from small start-up to huge corporation which helped me to gain lot of experience
+  as well as different points of view on software development. I’m freelancer because I consider it to be the best work-life
+  balance solution for me. I get to do what I love and get paid for it, and at the same time I have a freedom to work
+  on my own self-development.
 
-  <mark>Scala</mark> <mark>Java</mark> <mark>SQL</mark> <mark>Ruby</mark> <mark>JavaScript</mark> <mark>Play framework</mark> <mark>Spring boot</mark> <mark>Akka</mark> <mark>Event sourcing</mark>
+
+  <mark>Scala</mark> <mark>Java</mark> <mark>SQL</mark> <mark>Functional programming</mark> <mark>Play framework</mark> <mark>Spring boot</mark> <mark>Akka</mark> <mark>Event sourcing</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -33,6 +39,7 @@ about_content: |
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     Alongside my interests in programming and software engineering some of my other interests and hobbies are:
+      - swimming
       - traveling
       - cooking
       - books

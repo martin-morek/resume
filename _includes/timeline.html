@@ -1,53 +1,52 @@
 <div class="container">
-  <h3 id="timeline">Experience & Education</h3>
+    <h3 id="timeline">Experience</h3>
     <ul class="timeline">
 
-      {% for experience in site.data.experience %}
+        {% for experience in site.data.experience %}
         <li>
-          <div class="timeline-badge"><i class="fa fa-briefcase"></i></div>
-          <div class="timeline-panel">
-            <div class="timeline-heading">
-              <h4>{{ experience.company }}</h4>
-              {%- if experience.link -%}
-                <a href="http://{{ experience.link }}" target="_blank">{{ experience.link }}</a>
-              {%- endif -%}
-              <p>{{ experience.dates }}</p>
-              <p><b>{{ experience.job_title }}</b></p>
-            </div>
-            <div class="timeline-body">
-              <div class="description">
-                <p>
-                  {{ experience.description | strip | markdownify }}
-                </p>
-              </div>
+            <div class="timeline-badge"><i class="fa fa-briefcase"></i></div>
+            <div class="timeline-panel">
+                <div class="timeline-heading">
+                    <h4>{{ experience.company }}</h4> {%- if experience.link -%}
+                    <a href="http://{{ experience.link }}" target="_blank">{{ experience.link }}</a> {%- endif -%}
+                    <p>{{ experience.dates }}</p>
+                    <p><b>{{ experience.job_title }}</b></p>
+                </div>
+                <div class="timeline-body">
+                    <div class="description">
+                        <p>
+                            {{ experience.description | strip | markdownify }}
+                        </p>
+                    </div>
 
-              <p>
-                {{ experience.tags | strip | markdownify }}
-              </p>
+                    <p>
+                        {{ experience.tags | strip | markdownify }}
+                    </p>
 
-              <div class="description-toggle text-center">
-                <a class="fa fa-angle-down"></a>
-              </div>
+                    <div class="description-toggle text-center">
+                        <a class="fa fa-angle-down"></a>
+                    </div>
+                </div>
             </div>
-          </div>
         </li>
-      {% endfor %}
-
-      {% for education in site.data.education %}
-      <li>
-        <div class="timeline-badge"><i class="fa fa-graduation-cap"></i></div>
-        <div class="timeline-panel">
-          <div class="timeline-heading">
-            <h4>{{ education.name }}</h4>
-            <p>{{ education.dates }}</p>
-            <p><b>{{ education.qualification }}</b></p>
-          </div>
-          <div class="timeline-body">
-            Thesis: {{ education.thesis | strip | markdownify }}
-          </div>
-        </div>
-      </li>
-      {% endfor %}
-
+        {% endfor %}
+    </ul>
+    <h3 id="timeline">Education</h3>
+    <ul class="timeline">
+        {% for education in site.data.education %}
+        <li>
+            <div class="timeline-badge"><i class="fa fa-graduation-cap"></i></div>
+            <div class="timeline-panel">
+                <div class="timeline-heading">
+                    <h4>{{ education.name }}</h4>
+                    <p>{{ education.dates }}</p>
+                    <p><b>{{ education.qualification }}</b></p>
+                </div>
+                <div class="timeline-body">
+                    Thesis: {{ education.thesis | strip | markdownify }}
+                </div>
+            </div>
+        </li>
+        {% endfor %}
     </ul>
 </div>
