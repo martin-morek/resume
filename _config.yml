@@ -4,7 +4,7 @@ favicon: img/favicon.ico
 
 # Personal info
 name: Martin Morek
-title: Software Developer
+title: Backend Software Developer
 email: martin.morek@gmail.com
 
 # Social links
@@ -14,17 +14,11 @@ linkedin_username: martinmorek
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: img/martin-morek.jpg
+about_profile_image: img/martin-morek.jpeg
 about_content: |
-  I am a reliable and skilled software developer with more than five years of professional programming experience,
-  last three years primarily focusing on Scala language. I love functional programming and I’m always eager to learn new skills.
-  I have worked in different companies from small start-up to huge corporation which helped me to gain lot of experience
-  as well as different points of view on software development. I’m freelancer because I consider it to be the best work-life
-  balance solution for me. I get to do what I love and get paid for it, and at the same time I have a freedom to work
-  on my own self-development.
+  Hi. I'm Martin, a software developer in love with functional programming. I am a reliable and skilled software developer with more than five years of professional programming experience, last three years primarily focusing on Scala and Java language, developing microservice architecture and distributed applications. During my prior career I worked with different technologies on various positions through several companies, which offered me opportunity to collect a lot of experience. Last two years I’ve been working as an independent remote contractor so I have a plenty experience with remote work and independent work.
 
-
-  <mark>Scala</mark> <mark>Java</mark> <mark>SQL</mark> <mark>Functional programming</mark> <mark>Play framework</mark> <mark>Spring boot</mark> <mark>Akka</mark> <mark>Event sourcing</mark>
+  <mark>Scala</mark> <mark>Java</mark> <mark>Functional programming</mark> <mark>SQL</mark> <mark>Play framework</mark> <mark>Spring boot</mark> <mark>Akka</mark> <mark>Event sourcing</mark> <mark>Ruby</mark> <mark>JavaScript</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -39,11 +33,10 @@ about_content: |
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     Alongside my interests in programming and software engineering some of my other interests and hobbies are:
-      - swimming
+      - sports
       - traveling
       - cooking
       - books
-      - movies
 
 # Footer
 footer_show_references: false

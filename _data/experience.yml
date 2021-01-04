@@ -1,51 +1,42 @@
 # Experience template
-- company: Freelance developer (Remote)
+- company: Freelancer
   link: www.martin-morek.me
   job_title: Scala/Java freelance developer
   dates: October 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    As a remote freelance developer I've worked for several companies from different parts of the world.
-    Working as a remote freelancer is challenging but besides improving my programming knowleage
-    it offers me an opportunity to improve my soft skills, such as remote communication, cooperation with a client,
-    responsibility for a deadline and time management.
+    I’ve been a participant on multiple projects as a remote contractor focused on backend development which offered me possibility to tried mutiple technologies and work processes.
 
-  tags: <mark>Scala</mark> <mark>Java</mark> <mark>Play Framework</mark>  <mark>Docker</mark> <mark>Functional programming</mark> <mark>AWS</mark>
+    Besides technical improvement working as a remote freelancer gave me an opportunity to improve my soft skills, such as remote communication and cooperation with a client, responsibility for a deadline and time management.
 
-- company: Firstbird (Vienna, Austria)
+  tags: <mark>Scala</mark> <mark>Java</mark> <mark>Play Framework</mark>  <mark>Functional programming</mark> <mark>PostgreSQL</mark> <mark>AWS</mark> <mark>Heroku</mark>
+
+- company: Firstbird
   link: www.firstbird.com
   job_title: Backend Developer
   dates: October 2017 - October 2018
   description: | # this will include new lines to allow paragraphs
-    I was a part of a small, autonomous, agile backend team, closely working with frontend developers
-    and product specialists. Except for implementing new features, part of my job was also
-    doing DevOps (deploying new versions, configuring environments). Application’s backend
-    was composed of multiple microservices developed in Scala language (Play framework, Akka)
-    or Java (Spring boot), everything running in Docker containers on AWS.
+    I was part of a small, autonomous, agile team working closely with Frontend developers and product specialists. Except for implementing new features, part of my job was doing DevOps (deploying a new versions, configuring environments).
+
+    Application’s backend was composed of multiple microservices developed in Scala language (Play framework, Akka) or Java (Spring boot), everything running in Docker containers on AWS.
 
   tags: <mark>Scala</mark> <mark>Play Framework</mark> <mark>Java</mark> <mark>Docker</mark> <mark>Akka</mark> <mark>AWS</mark> <mark>Microservices</mark> <mark>Event Sourcing</mark>
 
-- company: Wirecard AG (Kosice, Slovakia)
+- company: Wirecard AG
   link: www.wirecard.com
   job_title: Software Engineer
   dates: February 2016 - August 2017
   description: | # this will include new lines to allow paragraphs
-    I was a member of a team which was generally focused on Ruby on Rails projects.
-    Our prime project was a customer loyalty system fully developed in RoR.
-    I was a full-stack developer responsible for implementing new features based
-    on customer requirements, creating unit tests and fixing bugs. Along with Ruby projects,
-    I worked on Java (Spring Boot) and Scala (Akka) projects. This position
-    gave me a brief introduction into Fintech industry.
+    I started as a member of a team which was primarily focused on Ruby on Rails projects. Our main project was a customer loyalty system fully developed in RoR. My position was a full stack developer and I was responsible for implementing new features based on customer requirements, creating unit tests and fixing bugs.
+
+    Later, I moved from Ruby projects to Java (Spring Boot) and Scala (Akka) projects. These projects were designed and built from scratch by our team.
 
   tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>Ruby on Rails</mark> <mark>REST</mark> <mark>Scala</mark> <mark>Akka</mark>
 
-- company: Localhost s.r.o (Kosice, Slovakia)
+- company: Localhost s.r.o
   link: www.localhost.company
   job_title: Web Developer
   dates: October 2014 - February 2016
   description: | # this will include new lines to allow paragraphs
-    I started as a web developer using PHP, MySQL, Javascript, HTML and CSS.
-    Later, I transformed to a Java programmer and participated on several projects
-    developed with Spring Boot framework. My responsibility was designing REST API and
-    implementing application backend core functionality.
+    I started as a junior developer collaborating on a custom customer relationship management system. This system backbone technologies were PHP and MySQL on the backend side. Later, I worked as a Java developer on several other projects built with Spring Boot framework. My responsibility was designing REST API for communication with front-end, implementing application backend core functionality and fixing bugs.
 
   tags: <mark>Java</mark> <mark>Spring boot</mark> <mark>SQL</mark> <mark>PHP</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
